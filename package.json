@@ -1,18 +1,18 @@
 {
-  "name": "bmiapp",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "AI model",
-  "license": "ISC",
-  "author": "",
-  "type": "module",
+  "description": "",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
-  },
-  "devDependencies": {},
-  "keywords": []
+    "express": "^5.2.1",
+    "node": "^22.22.3"
+  }
 }
